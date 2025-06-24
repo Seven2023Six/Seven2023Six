@@ -1,8 +1,5 @@
 <!-- 个人简介 -->
 <h1 align="center">Hi 👋，我是御轩</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=欢迎来到我的GitHub主页;热爱编程与开源;持续学习与成长中..." alt="Typing SVG" />
-</p>
 
 <!-- 社交账号徽章 -->
 
